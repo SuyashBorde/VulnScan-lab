@@ -15,7 +15,7 @@ and a professional PDF report.
 
 | # | Vulnerability | CVE | Severity | Report |
 |---|---|---|---|---|
-| 1 | vsftpd 2.3.4 Backdoor | CVE-2011-2523 | Critical | [View](./01-vsftpd-backdoor/report.pdf) |
+| 1 | vsftpd 2.3.4 Backdoor | CVE-2011-2523 | Critical | [View](./01-vsftpd-backdoor/vsftpd_pentest_report.pdf) |
 
 ---
 
